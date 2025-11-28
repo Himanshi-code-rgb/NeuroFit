@@ -2,10 +2,9 @@
 
  👥 Team Members
 
-1. Punit Pal  
-2. Rounak Soni  
-3. Mannu  
-4. Vedant Sanodiya  
+1. Shivi goel
+2. Himanshi Aggarwal
+3. Rounak soni  
 
 ---
 
